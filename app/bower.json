@@ -1,0 +1,7 @@
+{
+    "name": "Music-Final-Project",
+    "version": "1.0",
+    "dependencies": {
+        "osc.js": "2.2.0"
+    }
+}
